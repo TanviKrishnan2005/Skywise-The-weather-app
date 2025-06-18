@@ -16,3 +16,14 @@ Built With
 - **CSS** – Styling
 - **JavaScript** – Functionality
 - **OpenWeatherMap API** – Weather data
+
+VISUALS
+
+Main UI
+![Main UI](final_image/img1.png)
+
+Search Feature
+![Search Feature](final_image/img2.png)
+
+Error Message
+![Error Message](final_image/img3.png)
